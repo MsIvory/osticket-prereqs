@@ -28,25 +28,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F0atB1f.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is me beginning the process of installing prereqs for osTicket to function properly. Start at the start menu and proceed to the control panel. Select uninstall or change program. At this point is where you would go to turn features on or off. Then this menu pops up and you would select Internet Information Services and select ok.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vji6fJN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the next step I installed the Web platform installer
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/o55hr78.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installing MySQL as well as creating username and password
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/L0awj3L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+C++ Redistributable was installed next.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5BDBgU5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Permissions were configured and once completed osTicket was installed.
 </p>
 <br />
